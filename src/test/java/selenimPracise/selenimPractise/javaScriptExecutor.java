@@ -1,4 +1,4 @@
-package selenimPracise.selenimPracise;
+package selenimPracise.selenimPractise;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;

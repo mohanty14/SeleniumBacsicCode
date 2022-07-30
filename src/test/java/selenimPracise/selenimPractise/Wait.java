@@ -1,4 +1,4 @@
-package selenimPracise.selenimPracise;
+package selenimPracise.selenimPractise;
 
 import java.time.Duration;
 import java.util.concurrent.TimeUnit;
