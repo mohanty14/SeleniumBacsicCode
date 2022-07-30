@@ -28,6 +28,7 @@ public class Wait {
 		//Implicit wait
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		driver.getTitle();
+		System.out.println("hello");
 
 	}
 
